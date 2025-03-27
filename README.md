@@ -1,10 +1,7 @@
 # Basic-C
-Every basic Beginners Code of C .
+Every basic Beginner's Code of C .
+Whatever I learned as begineer Coder .
+The C programming Language is my first code language .
+Its very easy to understand and start the journey as developer .
 ENJOY
-I am Putting here Everything from scratch .
-That I learned during my self-taught coding journey .
-The basics took me <1 week in a blitzkreig speed.
-While i learned complete language in <2 month . 
-Then i spend another 2 month on project-usage and competitive coding .
-And also simultanosly got into C++ and other languages(JAVA,HTML/CSS) .
-Enjoy .
+
